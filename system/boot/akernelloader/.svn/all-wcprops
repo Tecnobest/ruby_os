@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/221/trunk/akernelloader
+END
+elf_ak.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/213/trunk/akernelloader/elf_ak.c
+END
+fs_op_ak.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/213/trunk/akernelloader/fs_op_ak.c
+END
+string_ak.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/213/trunk/akernelloader/string_ak.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/213/trunk/akernelloader/main.c
+END
+disk_ak.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/213/trunk/akernelloader/disk_ak.c
+END
+config_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/213/trunk/akernelloader/config_ak.h
+END
+akernelloader.ld
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/213/trunk/akernelloader/akernelloader.ld
+END
+bios_ak.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/213/trunk/akernelloader/bios_ak.c
+END
+start_kernel_ak.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/218/trunk/akernelloader/start_kernel_ak.c
+END
+akernelloader.S
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/213/trunk/akernelloader/akernelloader.S
+END
+abios_ak.S
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/213/trunk/akernelloader/abios_ak.S
+END
+gdt_ak.S
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/213/trunk/akernelloader/gdt_ak.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/213/trunk/akernelloader/Makefile
+END
+printf_ak.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/213/trunk/akernelloader/printf_ak.c
+END

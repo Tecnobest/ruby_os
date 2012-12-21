@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/221/trunk
+END
+copyin
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/213/trunk/copyin
+END
+install
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/213/trunk/install
+END
+ak_bootstrap.ld
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/213/trunk/ak_bootstrap.ld
+END
+ak_bootstrap.S
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/213/trunk/ak_bootstrap.S
+END
+ak_boot-inst.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/213/trunk/ak_boot-inst.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/213/trunk/Makefile
+END

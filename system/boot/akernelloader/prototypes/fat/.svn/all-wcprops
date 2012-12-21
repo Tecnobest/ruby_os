@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat
+END
+fat_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_defs.h
+END
+fat_access.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_access.h
+END
+fat_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_types.h
+END
+fat_opts.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_opts.h
+END
+fat_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_string.h
+END
+fat_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_table.h
+END
+fat_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_fs.h
+END
+fat_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_list.h
+END
+fat_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fat/fat_misc.h
+END

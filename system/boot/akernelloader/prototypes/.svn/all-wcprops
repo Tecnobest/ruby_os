@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/220/trunk/akernelloader/prototypes
+END
+multiboot_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/multiboot_ak.h
+END
+stdio_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/stdio_ak.h
+END
+types_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/types_ak.h
+END
+stdarg_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/stdarg_ak.h
+END
+string_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/string_ak.h
+END
+elf_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/elf_ak.h
+END
+fs_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/fs_ak.h
+END
+partition_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/partition_ak.h
+END
+disk_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/disk_ak.h
+END
+bios_ak.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/213/trunk/akernelloader/prototypes/bios_ak.h
+END
